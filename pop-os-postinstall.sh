@@ -2,8 +2,9 @@
 #
 # pos-os-postinstall.sh - Instalar e configura programas no Pop!_OS (20.04 LTS ou superior)
 #
-# Website:       https://diolinux.com.br
-# Autor:         Dionatan Simioni
+# Website:                https://github.com/andrebalen
+# Original Autor:         Dionatan Simioni
+# Updater:                VultureCrew
 #
 # ------------------------------------------------------------------------ #
 #
