@@ -84,9 +84,13 @@ PROGRAMAS_PARA_INSTALAR=(
   gparted
   timeshift
   gufw
-  synaptic
   solaar
-  vlc
+  mpv
+  mc
+  vim
+  figlet
+  toylet
+  tree
   code
   gnome-sushi 
   folder-color
